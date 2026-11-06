@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06 15:07:47",
-  "channels": 186,
-  "usable_sources": 314,
-  "stable_channels": 140,
-  "static_sources": 172,
+  "generated_at": "2026-11-06 16:49:41",
+  "channels": 303,
+  "usable_sources": 462,
+  "stable_channels": 259,
+  "static_sources": 184,
   "proven_sources": 616,
   "history_days": 2,
   "publish_filter": "stable_plus"
