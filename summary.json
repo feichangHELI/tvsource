@@ -1,9 +1,10 @@
 {
   "generated_at": "2026-11-06 11:47:23",
-  "channels": 153,
-  "usable_sources": 228,
+  "channels": 23,
+  "usable_sources": 34,
   "stable_channels": 23,
   "static_sources": 90,
   "proven_sources": 226,
-  "history_days": 2
+  "history_days": 2,
+  "publish_filter": "stable"
 }
