@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-05 18:07:41",
-  "channels": 61,
-  "usable_sources": 89,
-  "stable_channels": 24,
-  "static_sources": 48,
-  "proven_sources": 57,
-  "history_days": 1
+  "generated_at": "2026-11-06 11:13:40",
+  "channels": 152,
+  "usable_sources": 228,
+  "stable_channels": 0,
+  "static_sources": 96,
+  "proven_sources": 226,
+  "history_days": 2
 }
