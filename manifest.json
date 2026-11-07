@@ -1,7 +1,11 @@
 {
-  "version": "20261107140429",
-  "updated_at": "2026-11-07 14:04:29",
+  "version": "20261107141944",
+  "updated_at": "2026-11-07 14:19:44",
   "min_speed_kbps": 800,
+  "keep_best_groups": [
+    "央视",
+    "卫视"
+  ],
   "channels": [
     {
       "name": "CCTV-1",
@@ -945,19 +949,6 @@
           "ok": 7,
           "checks": 7,
           "speed": 1320
-        }
-      ]
-    },
-    {
-      "name": "山东教育",
-      "group": "卫视",
-      "sources": [
-        {
-          "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
-          "stable": true,
-          "ok": 21,
-          "checks": 21,
-          "speed": 5803
         }
       ]
     },
@@ -2545,54 +2536,15 @@
       ]
     },
     {
-      "name": "河北经济生活",
+      "name": "山东教育",
       "group": "河北本地",
       "sources": [
         {
-          "url": "http://121.19.134.149:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
           "stable": true,
-          "ok": 7,
-          "checks": 7,
-          "speed": 312
-        }
-      ]
-    },
-    {
-      "name": "河北三农",
-      "group": "河北本地",
-      "sources": [
-        {
-          "url": "http://121.19.134.149:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
-          "stable": true,
-          "ok": 7,
-          "checks": 7,
-          "speed": 225
-        }
-      ]
-    },
-    {
-      "name": "河北影视",
-      "group": "河北本地",
-      "sources": [
-        {
-          "url": "http://121.19.134.33:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
-          "stable": true,
-          "ok": 7,
-          "checks": 7,
-          "speed": 339
-        }
-      ]
-    },
-    {
-      "name": "河北影视剧",
-      "group": "河北本地",
-      "sources": [
-        {
-          "url": "http://121.19.134.149:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
-          "stable": true,
-          "ok": 7,
-          "checks": 7,
-          "speed": 262
+          "ok": 21,
+          "checks": 21,
+          "speed": 5803
         }
       ]
     },
@@ -3194,19 +3146,6 @@
           "ok": 8,
           "checks": 8,
           "speed": 5782
-        }
-      ]
-    },
-    {
-      "name": "湖南湘潭新闻综合",
-      "group": "直播",
-      "sources": [
-        {
-          "url": "http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund",
-          "stable": true,
-          "ok": 8,
-          "checks": 8,
-          "speed": 297
         }
       ]
     },
