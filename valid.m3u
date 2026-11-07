@@ -5,6 +5,16 @@ http://121.19.134.149:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://222.223.41.27:8888/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="cctv-6" tvg-name="CCTV-6" group-title="央视IPTV" x-source="local",CCTV-6
 http://121.19.134.149:808/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv-10" tvg-name="CCTV-10" group-title="央视IPTV" x-source="local",CCTV-10
+http://36.136.38.87:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv-10" tvg-name="CCTV-10" group-title="央视IPTV" x-source="local",CCTV-10
+http://121.19.134.149:808/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv-11" tvg-name="CCTV-11" group-title="央视IPTV" x-source="local",CCTV-11
+http://113.90.154.189:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cctv-11" tvg-name="CCTV-11" group-title="央视IPTV" x-source="imdazui-local",CCTV-11
+http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 tvg-id="cctv-11" tvg-name="CCTV-11" group-title="央视IPTV" x-source="local",CCTV-11
+http://121.19.134.149:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv-12" tvg-name="CCTV-12" group-title="央视IPTV" x-source="local",CCTV-12
 http://121.19.134.149:808/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv-12" tvg-name="CCTV-12" group-title="央视IPTV" x-source="local",CCTV-12
@@ -15,10 +25,6 @@ http://121.19.134.33:808/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 http://121.19.134.149:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv-17" tvg-name="CCTV-17" group-title="央视IPTV" x-source="local",CCTV-17
 http://183.129.255.66:8480/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="央视IPTV" x-source="local",CGTN
-http://121.19.134.149:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="央视IPTV" x-source="vbskycn-iptv4",CGTN
-http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="cetv1" tvg-name="CETV1" group-title="央视IPTV" x-source="local",CETV1
 http://121.19.134.149:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cetv2" tvg-name="CETV2" group-title="央视IPTV" x-source="local",CETV2
@@ -65,16 +71,6 @@ http://121.19.134.149:808/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv-9" tvg-name="CCTV-9" group-title="央视补源" x-source="imdazui-local",CCTV-9
 http://183.11.239.36:808/hls/27/index.m3u8
-#EXTINF:-1 tvg-id="cctv-10" tvg-name="CCTV-10" group-title="央视补源" x-source="local",CCTV-10
-http://36.136.38.87:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="cctv-10" tvg-name="CCTV-10" group-title="央视补源" x-source="local",CCTV-10
-http://121.19.134.149:808/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="cctv-11" tvg-name="CCTV-11" group-title="央视补源" x-source="local",CCTV-11
-http://113.90.154.189:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="cctv-11" tvg-name="CCTV-11" group-title="央视补源" x-source="imdazui-local",CCTV-11
-http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1 tvg-id="cctv-11" tvg-name="CCTV-11" group-title="央视补源" x-source="local",CCTV-11
-http://121.19.134.149:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv-13" tvg-name="CCTV-13" group-title="央视补源" x-source="imdazui-local",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-id="cctv-13" tvg-name="CCTV-13" group-title="央视补源" x-source="local",CCTV-13
@@ -87,16 +83,16 @@ https://event.pull.hebtv.com/jishi/cp2.m3u8
 http://113.90.154.189:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv-14" tvg-name="CCTV-14" group-title="央视补源" x-source="local",CCTV-14
 http://121.19.134.149:808/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="cctv-15" tvg-name="CCTV-15" group-title="央视补源" x-source="local",CCTV-15
-http://222.223.41.27:8888/hls/15/index.m3u8
-#EXTINF:-1 tvg-id="cctv-15" tvg-name="CCTV-15" group-title="央视补源" x-source="vbskycn-iptv4",CCTV-15
-http://gmxw.7766.org:808/hls/102/index.m3u8
 #EXTINF:-1 tvg-id="cctv-8" tvg-name="CCTV-8" group-title="央视频道" x-source="local",CCTV-8
 http://121.19.134.149:808/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv-8" tvg-name="CCTV-8" group-title="央视频道" x-source="local",CCTV-8
 http://120.198.95.220:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="cctv-8" tvg-name="CCTV-8" group-title="央视频道" x-source="imdazui-local",CCTV-8
 http://183.11.239.36:808/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="cctv-15" tvg-name="CCTV-15" group-title="央视频道" x-source="local",CCTV-15
+http://222.223.41.27:8888/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="cctv-15" tvg-name="CCTV-15" group-title="央视频道" x-source="vbskycn-iptv4",CCTV-15
+http://gmxw.7766.org:808/hls/102/index.m3u8
 #EXTINF:-1 tvg-id="cctv-16" tvg-name="CCTV-16" group-title="央视频道" x-source="local",CCTV-16
 http://121.19.134.149:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="cctv-16" tvg-name="CCTV-16" group-title="央视频道" x-source="local",CCTV-16
@@ -105,6 +101,10 @@ http://1.24.39.180:9003/hls/60/index.m3u8
 http://183.11.239.36:808/hls/169/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" group-title="央视频道" x-source="vbskycn-iptv4",CCTV4K
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="央视频道" x-source="local",CGTN
+http://121.19.134.149:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="央视频道" x-source="vbskycn-iptv4",CGTN
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="cgtn法语" tvg-name="CGTN法语" group-title="央视频道" x-source="vbskycn-iptv4",CGTN法语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视IPTV" x-source="local",江苏卫视
@@ -223,6 +223,10 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" group-title="卫视频道" x-source="vbskycn-iptv4",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="卫视频道" x-source="vbskycn-iptv4",山东教育
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="卫视频道" x-source="local",山东教育
+http://121.19.134.149:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="苍南新闻综合" tvg-name="苍南新闻综合" group-title="地方频道" x-source="vbskycn-iptv4",苍南新闻综合
 https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:-1 tvg-id="苍南新闻综合" tvg-name="苍南新闻综合" group-title="地方频道" x-source="imdazui-local",苍南新闻综合
@@ -241,12 +245,6 @@ http://lbyzztfe.live.sxmty.com:80/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720
 http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 #EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" group-title="地方频道" x-source="vbskycn-iptv4",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-#EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" group-title="地方频道" x-source="imdazui-local",甘孜综合
-http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
-#EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" group-title="地方频道" x-source="guovin-result",甘孜综合
-https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" group-title="地方频道" x-source="vbskycn-iptv4",甘孜综合
-http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 #EXTINF:-1 tvg-id="固镇新闻" tvg-name="固镇新闻" group-title="地方频道" x-source="imdazui-local",固镇新闻
 http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 #EXTINF:-1 tvg-id="固镇新闻" tvg-name="固镇新闻" group-title="地方频道" x-source="vbskycn-iptv4",固镇新闻
@@ -387,10 +385,6 @@ https://live.wjyanghu.com/live/CH2.m3u8
 http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-id="武进新闻" tvg-name="武进新闻" group-title="地方频道" x-source="vbskycn-iptv4",武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 tvg-id="西宁新闻综合" tvg-name="西宁新闻综合" group-title="地方频道" x-source="vbskycn-iptv4",西宁新闻综合
-https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
-#EXTINF:-1 tvg-id="西宁新闻综合" tvg-name="西宁新闻综合" group-title="地方频道" x-source="guovin-result",西宁新闻综合
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-id="萧山生活" tvg-name="萧山生活" group-title="地方频道" x-source="vbskycn-iptv4",萧山生活
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-id="萧山生活" tvg-name="萧山生活" group-title="地方频道" x-source="vbskycn-iptv4",萧山生活
@@ -515,12 +509,6 @@ http://live.dxhmt.cn:9081/tv/10182-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
 #EXTINF:-1 tvg-id="荥阳综合" tvg-name="荥阳综合" group-title="地方频道" x-source="vbskycn-iptv4",荥阳综合
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-#EXTINF:-1 tvg-id="嵊州新闻综合" tvg-name="嵊州新闻综合" group-title="地方频道" x-source="imdazui-local",嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-id="嵊州新闻综合" tvg-name="嵊州新闻综合" group-title="地方频道" x-source="vbskycn-iptv4",嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-id="嵊州新闻综合" tvg-name="嵊州新闻综合" group-title="地方频道" x-source="guovin-result",嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="衢江新闻综合" tvg-name="衢江新闻综合" group-title="地方频道" x-source="imdazui-local",衢江新闻综合
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1 tvg-id="衢江新闻综合" tvg-name="衢江新闻综合" group-title="地方频道" x-source="vbskycn-iptv4",衢江新闻综合
@@ -543,10 +531,6 @@ http://121.19.134.149:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://121.19.134.33:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北影视剧" tvg-name="河北影视剧" group-title="河北本地" x-source="local",河北影视剧
 http://121.19.134.149:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="河北本地" x-source="vbskycn-iptv4",山东教育
-https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="河北本地" x-source="local",山东教育
-http://121.19.134.149:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="邯郸公共" tvg-name="邯郸公共" group-title="河北频道" x-source="guovin-result",邯郸公共
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="邯郸科教" tvg-name="邯郸科教" group-title="河北频道" x-source="guovin-result",邯郸科教
@@ -561,6 +545,16 @@ https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="苏州4k" tvg-name="苏州4K" group-title="江苏频道" x-source="guovin-result",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-id="西宁新闻综合" tvg-name="西宁新闻综合" group-title="青海频道" x-source="vbskycn-iptv4",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+#EXTINF:-1 tvg-id="西宁新闻综合" tvg-name="西宁新闻综合" group-title="青海频道" x-source="guovin-result",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" group-title="四川频道" x-source="imdazui-local",甘孜综合
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+#EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" group-title="四川频道" x-source="guovin-result",甘孜综合
+https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" group-title="四川频道" x-source="vbskycn-iptv4",甘孜综合
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 #EXTINF:-1 tvg-id="普陀新闻综合" tvg-name="普陀新闻综合" group-title="浙江频道" x-source="imdazui-local",普陀新闻综合
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="普陀新闻综合" tvg-name="普陀新闻综合" group-title="浙江频道" x-source="guovin-result",普陀新闻综合
@@ -569,6 +563,12 @@ http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江教科" group-title="浙江频道" x-source="vbskycn-iptv4",浙江教科
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="嵊州新闻综合" tvg-name="嵊州新闻综合" group-title="浙江频道" x-source="imdazui-local",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-id="嵊州新闻综合" tvg-name="嵊州新闻综合" group-title="浙江频道" x-source="vbskycn-iptv4",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-id="嵊州新闻综合" tvg-name="嵊州新闻综合" group-title="浙江频道" x-source="guovin-result",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="4k南国都市频道" tvg-name="4K南国都市频道" group-title="直播" x-source="imdazui-local",4K南国都市频道
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-id="安徽固镇新闻" tvg-name="安徽固镇新闻" group-title="直播" x-source="imdazui-local",安徽固镇新闻
