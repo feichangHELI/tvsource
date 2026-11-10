@@ -1,6 +1,6 @@
 {
-  "version": "20261109213656",
-  "updated_at": "2026-11-09 21:36:56",
+  "version": "20261110201318",
+  "updated_at": "2026-11-10 20:13:18",
   "min_speed_kbps": 800,
   "keep_best_groups": [
     "央视",
@@ -14,11 +14,11 @@
     "纪录",
     "浙江",
     "四川",
-    "吉林",
     "河北",
     "江苏",
+    "吉林",
     "广东",
-    "河南",
+    "山西",
     "地方"
   ],
   "channels": [
@@ -31,66 +31,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 250
+          "speed": 636
         }
       ]
     },
     {
-      "name": "CCTV-13",
+      "name": "CCTV-12",
       "group": "央视",
       "sources": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8",
+          "url": "http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1150
-        }
-      ]
-    },
-    {
-      "name": "CGTN",
-      "group": "央视",
-      "sources": [
-        {
-          "url": "http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 3912
-        }
-      ]
-    },
-    {
-      "name": "CGTN法语",
-      "group": "央视",
-      "sources": [
-        {
-          "url": "http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 2066
-        }
-      ]
-    },
-    {
-      "name": "湖南卫视",
-      "group": "卫视",
-      "sources": [
-        {
-          "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 1072
-        },
-        {
-          "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 1040
+          "speed": 1134
         }
       ]
     },
@@ -103,41 +57,21 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2160
-        },
-        {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 1144
+          "speed": 935
         },
         {
           "url": "http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1144
-        }
-      ]
-    },
-    {
-      "name": "东方卫视",
-      "group": "卫视",
-      "sources": [
-        {
-          "url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 2326
+          "speed": 2302
         },
         {
-          "url": "http://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
+          "url": "http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1033
+          "speed": 1601
         }
       ]
     },
@@ -150,33 +84,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 698
+          "speed": 1027
         }
       ]
     },
     {
-      "name": "黑龙江卫视",
+      "name": "江西卫视",
       "group": "卫视",
       "sources": [
         {
-          "url": "https://idclive.hljtv.com:4430/live/hljws_own.m3u8",
+          "url": "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1050
-        }
-      ]
-    },
-    {
-      "name": "东南卫视",
-      "group": "卫视",
-      "sources": [
-        {
-          "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 691
+          "speed": 975
         }
       ]
     },
@@ -185,11 +106,50 @@
       "group": "卫视",
       "sources": [
         {
-          "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8",
+          "url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1211
+          "speed": 3030
+        }
+      ]
+    },
+    {
+      "name": "甘肃卫视",
+      "group": "卫视",
+      "sources": [
+        {
+          "url": "http://218.13.170.98:9901/tsfile/live/0141_1.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3229
+        }
+      ]
+    },
+    {
+      "name": "新疆卫视",
+      "group": "卫视",
+      "sources": [
+        {
+          "url": "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1568
+        }
+      ]
+    },
+    {
+      "name": "西藏卫视",
+      "group": "卫视",
+      "sources": [
+        {
+          "url": "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 771
         }
       ]
     },
@@ -202,20 +162,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 696
-        }
-      ]
-    },
-    {
-      "name": "延边卫视",
-      "group": "卫视",
-      "sources": [
-        {
-          "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 841
+          "speed": 1876
         }
       ]
     },
@@ -228,7 +175,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 793
+          "speed": 814
         }
       ]
     },
@@ -241,20 +188,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 688
+          "speed": 932
         }
       ]
     },
     {
-      "name": "苏州4K",
-      "group": "卫视",
+      "name": "CHC电影",
+      "group": "电影",
       "sources": [
         {
-          "url": "https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8",
+          "url": "http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1400
+          "speed": 866
         }
       ]
     },
@@ -267,7 +214,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2839
+          "speed": 9039
+        }
+      ]
+    },
+    {
+      "name": "黄渤电影",
+      "group": "电影",
+      "sources": [
+        {
+          "url": "https://live.metshop.top/huya/11352876",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 868
         }
       ]
     },
@@ -280,27 +240,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2390
+          "speed": 1207
         },
         {
-          "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+          "url": "http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1777
-        }
-      ]
-    },
-    {
-      "name": "福州少儿",
-      "group": "儿童",
-      "sources": [
-        {
-          "url": "http://live.zohi.tv/video/s10001-fztv-4/index.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 4150
+          "speed": 1154
         }
       ]
     },
@@ -309,11 +256,25 @@
       "group": "儿童",
       "sources": [
         {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4393
+        },
+        {
+          "url": "http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3736
+        },
+        {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1318
+          "speed": 2754
         }
       ]
     },
@@ -326,7 +287,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1730
+          "speed": 2684
         }
       ]
     },
@@ -339,7 +300,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 3152
+          "speed": 4117
+        }
+      ]
+    },
+    {
+      "name": "江津新闻",
+      "group": "纪录",
+      "sources": [
+        {
+          "url": "http://222.179.155.21:1935/ch1.m3u8?zzhongqd",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1141
         }
       ]
     },
@@ -352,7 +326,33 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4105
+          "speed": 4591
+        }
+      ]
+    },
+    {
+      "name": "九台",
+      "group": "纪录",
+      "sources": [
+        {
+          "url": "http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 2010
+        }
+      ]
+    },
+    {
+      "name": "奎屯汉语",
+      "group": "纪录",
+      "sources": [
+        {
+          "url": "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 984
         }
       ]
     },
@@ -365,7 +365,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2024
+          "speed": 4659
         }
       ]
     },
@@ -378,7 +378,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4559
+          "speed": 11076
         }
       ]
     },
@@ -391,7 +391,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 901
+          "speed": 1298
         }
       ]
     },
@@ -404,7 +404,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 3790
+          "speed": 2990
         }
       ]
     },
@@ -417,7 +417,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2920
+          "speed": 2769
+        }
+      ]
+    },
+    {
+      "name": "双辽",
+      "group": "纪录",
+      "sources": [
+        {
+          "url": "http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4796
         }
       ]
     },
@@ -430,7 +443,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4427
+          "speed": 2435
+        }
+      ]
+    },
+    {
+      "name": "汪清",
+      "group": "纪录",
+      "sources": [
+        {
+          "url": "http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1465
         }
       ]
     },
@@ -443,21 +469,21 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1609
+          "speed": 5657
         },
         {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 846
+          "speed": 2386
         },
         {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 844
+          "speed": 2196
         }
       ]
     },
@@ -470,7 +496,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 6721
+          "speed": 13919
         }
       ]
     },
@@ -483,7 +509,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1576
+          "speed": 2586
         }
       ]
     },
@@ -496,7 +522,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4297
+          "speed": 10416
         }
       ]
     },
@@ -505,18 +531,31 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 2050
-        },
-        {
           "url": "http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1566
+          "speed": 6553
+        },
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4205
+        }
+      ]
+    },
+    {
+      "name": "湖州新闻综合",
+      "group": "浙江",
+      "sources": [
+        {
+          "url": "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 7315
         }
       ]
     },
@@ -529,14 +568,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 6721
-        },
-        {
-          "url": "http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 2549
+          "speed": 1350
         }
       ]
     },
@@ -545,25 +577,25 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 3203
-        },
-        {
           "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2688
+          "speed": 4064
         },
         {
           "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2108
+          "speed": 3574
+        },
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3209
         }
       ]
     },
@@ -576,7 +608,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2783
+          "speed": 4074
         }
       ]
     },
@@ -589,7 +621,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1512
+          "speed": 1669
         }
       ]
     },
@@ -602,7 +634,27 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1793
+          "speed": 2639
+        }
+      ]
+    },
+    {
+      "name": "龙游生活娱乐",
+      "group": "浙江",
+      "sources": [
+        {
+          "url": "https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1093
+        },
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3209
         }
       ]
     },
@@ -615,7 +667,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2042
+          "speed": 2077
+        },
+        {
+          "url": "https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 857
         }
       ]
     },
@@ -624,18 +683,18 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 7117
-        },
-        {
           "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 6990
+          "speed": 1350
+        },
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1273
         }
       ]
     },
@@ -648,7 +707,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 5719
+          "speed": 1715
         }
       ]
     },
@@ -661,7 +720,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2306
+          "speed": 5278
         }
       ]
     },
@@ -674,7 +733,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2512
+          "speed": 2725
         }
       ]
     },
@@ -687,14 +746,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2788
+          "speed": 6291
         },
         {
           "url": "http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2621
+          "speed": 1870
         }
       ]
     },
@@ -707,7 +766,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 3054
+          "speed": 2375
         }
       ]
     },
@@ -720,7 +779,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 3574
+          "speed": 2508
         }
       ]
     },
@@ -733,7 +792,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4430
+          "speed": 2793
         }
       ]
     },
@@ -746,14 +805,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1636
+          "speed": 6664
         },
         {
           "url": "http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1450
+          "speed": 4545
         }
       ]
     },
@@ -766,7 +825,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1199
+          "speed": 6664
+        }
+      ]
+    },
+    {
+      "name": "文成新闻综合",
+      "group": "浙江",
+      "sources": [
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 6664
         }
       ]
     },
@@ -779,7 +851,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1773
+          "speed": 10213
         }
       ]
     },
@@ -788,18 +860,18 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 2630
-        },
-        {
           "url": "http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2599
+          "speed": 10280
+        },
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 7710
         }
       ]
     },
@@ -812,14 +884,34 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2496
+          "speed": 15270
         },
         {
           "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2034
+          "speed": 1809
+        },
+        {
+          "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1100
+        }
+      ]
+    },
+    {
+      "name": "萧山新闻综合",
+      "group": "浙江",
+      "sources": [
+        {
+          "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4216
         }
       ]
     },
@@ -832,7 +924,33 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2394
+          "speed": 3932
+        }
+      ]
+    },
+    {
+      "name": "新昌生活",
+      "group": "浙江",
+      "sources": [
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 12192
+        }
+      ]
+    },
+    {
+      "name": "新昌新闻综合",
+      "group": "浙江",
+      "sources": [
+        {
+          "url": "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 8936
         }
       ]
     },
@@ -845,7 +963,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1908
+          "speed": 8149
         }
       ]
     },
@@ -858,14 +976,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1449
+          "speed": 2259
         },
         {
           "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1339
+          "speed": 1593
         }
       ]
     },
@@ -874,18 +992,38 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 1558
-        },
-        {
           "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1351
+          "speed": 1805
+        },
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1638
+        }
+      ]
+    },
+    {
+      "name": "余姚新闻综合",
+      "group": "浙江",
+      "sources": [
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 2394
+        },
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1953
         }
       ]
     },
@@ -898,7 +1036,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1279
+          "speed": 1524
+        },
+        {
+          "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1315
         }
       ]
     },
@@ -907,11 +1052,25 @@
       "group": "浙江",
       "sources": [
         {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1775
+        },
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1728
+        },
+        {
           "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 826
+          "speed": 1204
         }
       ]
     },
@@ -924,14 +1083,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4481
+          "speed": 5260
         },
         {
           "url": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2500
+          "speed": 2269
         }
       ]
     },
@@ -940,25 +1099,25 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 9830
-        },
-        {
           "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 8192
+          "speed": 7084
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4405
         },
         {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 7021
+          "speed": 888
         }
       ]
     },
@@ -971,14 +1130,21 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 7248
+          "speed": 2469
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1876
         },
         {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 5313
+          "speed": 1436
         }
       ]
     },
@@ -991,7 +1157,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 6472
+          "speed": 2557
         }
       ]
     },
@@ -1004,7 +1170,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 7903
+          "speed": 7598
         }
       ]
     },
@@ -1013,25 +1179,25 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 8836
-        },
-        {
           "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 8278
+          "speed": 2263
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 2212
         },
         {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1465
+          "speed": 1906
         }
       ]
     },
@@ -1040,18 +1206,25 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 4854
-        },
-        {
           "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4430
+          "speed": 6192
+        },
+        {
+          "url": "http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4139
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1799
         }
       ]
     },
@@ -1060,18 +1233,18 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 2540
-        },
-        {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2032
+          "speed": 3607
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1732
         }
       ]
     },
@@ -1084,7 +1257,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 12483
+          "speed": 1918
         }
       ]
     },
@@ -1093,25 +1266,25 @@
       "group": "浙江",
       "sources": [
         {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 6120
+        },
+        {
           "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 6898
+          "speed": 4128
         },
         {
           "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 5386
-        },
-        {
-          "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 2540
+          "speed": 3971
         }
       ]
     },
@@ -1120,11 +1293,18 @@
       "group": "浙江",
       "sources": [
         {
+          "url": "http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4117
+        },
+        {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2026
+          "speed": 2289
         }
       ]
     },
@@ -1137,14 +1317,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 3591
+          "speed": 2891
         },
         {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2137
+          "speed": 1304
         }
       ]
     },
@@ -1153,25 +1333,38 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 7943
-        },
-        {
           "url": "http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 7525
+          "speed": 1636
+        },
+        {
+          "url": "http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 6446
         },
         {
           "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2536
+          "speed": 1141
+        }
+      ]
+    },
+    {
+      "name": "浙江钱江频道",
+      "group": "浙江",
+      "sources": [
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3479
         }
       ]
     },
@@ -1180,18 +1373,18 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 10847
-        },
-        {
           "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 9649
+          "speed": 5260
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 5173
         }
       ]
     },
@@ -1204,7 +1397,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1863
+          "speed": 5208
         }
       ]
     },
@@ -1213,25 +1406,25 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 9091
-        },
-        {
-          "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 7214
-        },
-        {
           "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 6266
+          "speed": 7903
+        },
+        {
+          "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 5719
+        },
+        {
+          "url": "http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 5009
         }
       ]
     },
@@ -1244,7 +1437,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 10699
+          "speed": 6553
         }
       ]
     },
@@ -1257,7 +1450,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 3932
+          "speed": 2778
+        },
+        {
+          "url": "https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 2215
         }
       ]
     },
@@ -1270,7 +1470,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 5331
+          "speed": 1536
         }
       ]
     },
@@ -1279,18 +1479,18 @@
       "group": "浙江",
       "sources": [
         {
-          "url": "http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 6003
-        },
-        {
           "url": "http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4032
+          "speed": 1569
+        },
+        {
+          "url": "http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1460
         }
       ]
     },
@@ -1303,7 +1503,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1334
+          "speed": 2875
         }
       ]
     },
@@ -1316,7 +1516,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4381
+          "speed": 6393
         }
       ]
     },
@@ -1329,46 +1529,72 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4064
+          "speed": 13107
         }
       ]
     },
     {
-      "name": "广元公共",
+      "name": "朝天综合",
       "group": "四川",
       "sources": [
         {
-          "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8",
+          "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2783
+          "speed": 4809
         }
       ]
     },
     {
-      "name": "剑阁综合",
+      "name": "甘孜综合",
       "group": "四川",
       "sources": [
         {
-          "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8",
+          "url": "http://tv.drs.ganzitv.com:8100/channellive/gztv.flv",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1099
+          "speed": 1609
         }
       ]
     },
     {
-      "name": "井研综合",
+      "name": "夹江新闻综合",
       "group": "四川",
       "sources": [
         {
-          "url": "http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8",
+          "url": "http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 851
+          "speed": 1243
+        }
+      ]
+    },
+    {
+      "name": "乐至综合",
+      "group": "四川",
+      "sources": [
+        {
+          "url": "http://175.155.106.72:89/live1/live1.m3u8?zsicd",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1471
+        }
+      ]
+    },
+    {
+      "name": "名山综合",
+      "group": "四川",
+      "sources": [
+        {
+          "url": "https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 920
         }
       ]
     },
@@ -1381,20 +1607,33 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1143
+          "speed": 2759
         }
       ]
     },
     {
-      "name": "旺苍新闻综合",
+      "name": "营山电视台",
       "group": "四川",
       "sources": [
         {
-          "url": "http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8",
+          "url": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1290
+          "speed": 3709
+        }
+      ]
+    },
+    {
+      "name": "荥经综合",
+      "group": "四川",
+      "sources": [
+        {
+          "url": "https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 5173
         }
       ]
     },
@@ -1407,7 +1646,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1353
+          "speed": 1410
         }
       ]
     },
@@ -1420,21 +1659,21 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1253
+          "speed": 2193
         },
         {
           "url": "http://live.iwcmt.cn:90/live/zhxw.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1198
+          "speed": 2032
         },
         {
           "url": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1471
+          "speed": 4285
         }
       ]
     },
@@ -1447,86 +1686,60 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1715
+          "speed": 2272
+        },
+        {
+          "url": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3855
         },
         {
           "url": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 4884
-        },
-        {
-          "url": "http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 2368
+          "speed": 3683
         }
       ]
     },
     {
-      "name": "德惠综合",
-      "group": "吉林",
+      "name": "昌黎综合",
+      "group": "河北",
       "sources": [
         {
-          "url": "http://stream11.jlntv.cn/dehuitv/sd/live.m3u8",
+          "url": "https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2312
+          "speed": 5868
         }
       ]
     },
     {
-      "name": "辉南新闻综合",
-      "group": "吉林",
+      "name": "邯郸公共频道",
+      "group": "河北",
       "sources": [
         {
-          "url": "http://stream5.jlntv.cn/hn/sd/live.m3u8",
+          "url": "https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 980
+          "speed": 2793
         }
       ]
     },
     {
-      "name": "九台综合",
-      "group": "吉林",
+      "name": "河北都市",
+      "group": "河北",
       "sources": [
         {
-          "url": "http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8",
+          "url": "https://radio.pull.hebtv.com/live/hebnczx.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 969
-        }
-      ]
-    },
-    {
-      "name": "舒兰新闻综合",
-      "group": "吉林",
-      "sources": [
-        {
-          "url": "http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 4056
-        }
-      ]
-    },
-    {
-      "name": "汪清综合",
-      "group": "吉林",
-      "sources": [
-        {
-          "url": "http://stream5.jlntv.cn/wq/sd/live.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 1011
+          "speed": 2020
         }
       ]
     },
@@ -1539,20 +1752,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2707
+          "speed": 2021
         }
       ]
     },
     {
-      "name": "平泉综合",
+      "name": "滦平新闻",
       "group": "河北",
       "sources": [
         {
-          "url": "https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8",
+          "url": "http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2730
+          "speed": 2019
         }
       ]
     },
@@ -1565,7 +1778,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 899
+          "speed": 835
         }
       ]
     },
@@ -1578,20 +1791,33 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1335
+          "speed": 1004
         }
       ]
     },
     {
-      "name": "雅安新闻综合",
+      "name": "邢台综合",
       "group": "河北",
       "sources": [
         {
-          "url": "https://play.yunxya.com/channellive/xinwen.m3u8",
+          "url": "http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 836
+          "speed": 3449
+        }
+      ]
+    },
+    {
+      "name": "常熟民生",
+      "group": "江苏",
+      "sources": [
+        {
+          "url": "http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 909
         }
       ]
     },
@@ -1604,7 +1830,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1530
+          "speed": 1331
         }
       ]
     },
@@ -1617,33 +1843,59 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 3096
+          "speed": 1277
         }
       ]
     },
     {
-      "name": "武进生活",
+      "name": "苏州社会经济",
       "group": "江苏",
       "sources": [
         {
-          "url": "http://live.wjyanghu.com/live/CH2.m3u8",
+          "url": "https://live-auth.51kandianshi.com/szgd/csztv2.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 960
+          "speed": 4626
         }
       ]
     },
     {
-      "name": "武进新闻",
+      "name": "苏州生活资讯",
       "group": "江苏",
       "sources": [
         {
-          "url": "https://live.wjyanghu.com/live/CH1.m3u8",
+          "url": "https://live-auth.51kandianshi.com/szgd/csztv5.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 892
+          "speed": 4626
+        }
+      ]
+    },
+    {
+      "name": "苏州文化生活",
+      "group": "江苏",
+      "sources": [
+        {
+          "url": "https://live-auth.51kandianshi.com/szgd/csztv3.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4321
+        }
+      ]
+    },
+    {
+      "name": "苏州新闻综合",
+      "group": "江苏",
+      "sources": [
+        {
+          "url": "https://live-auth.51kandianshi.com/szgd/csztv1.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4194
         }
       ]
     },
@@ -1656,20 +1908,85 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1493
+          "speed": 1391
         }
       ]
     },
     {
-      "name": "东莞新闻综合",
-      "group": "广东",
+      "name": "长白山电视台",
+      "group": "吉林",
       "sources": [
         {
-          "url": "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8",
+          "url": "http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1374
+          "speed": 3214
+        }
+      ]
+    },
+    {
+      "name": "德惠综合",
+      "group": "吉林",
+      "sources": [
+        {
+          "url": "http://stream11.jlntv.cn/dehuitv/sd/live.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 2212
+        }
+      ]
+    },
+    {
+      "name": "辉南新闻综合",
+      "group": "吉林",
+      "sources": [
+        {
+          "url": "http://stream5.jlntv.cn/hn/sd/live.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 7419
+        }
+      ]
+    },
+    {
+      "name": "舒兰新闻综合",
+      "group": "吉林",
+      "sources": [
+        {
+          "url": "http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3790
+        }
+      ]
+    },
+    {
+      "name": "汪清综合",
+      "group": "吉林",
+      "sources": [
+        {
+          "url": "http://stream5.jlntv.cn/wq/sd/live.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3280
+        }
+      ]
+    },
+    {
+      "name": "番禺综合",
+      "group": "广东",
+      "sources": [
+        {
+          "url": "http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 2003
         }
       ]
     },
@@ -1682,7 +1999,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 5657
+          "speed": 1010
         }
       ]
     },
@@ -1691,78 +2008,64 @@
       "group": "广东",
       "sources": [
         {
-          "url": "http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8",
+          "url": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2536
-        },
-        {
-          "url": "https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 1154
+          "speed": 964
         },
         {
           "url": "https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1138
+          "speed": 937
         }
       ]
     },
     {
-      "name": "新野综合",
-      "group": "河南",
+      "name": "怀仁综合",
+      "group": "山西",
       "sources": [
         {
-          "url": "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend",
+          "url": "https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 954
+          "speed": 7214
         }
       ]
     },
     {
-      "name": "永城综合",
-      "group": "河南",
+      "name": "太谷新闻综合",
+      "group": "山西",
       "sources": [
         {
-          "url": "http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8",
+          "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1197
-        }
-      ]
-    },
-    {
-      "name": "荥阳综合",
-      "group": "河南",
-      "sources": [
-        {
-          "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 5123
+          "speed": 848
         },
         {
-          "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8",
+          "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 5025
-        },
+          "speed": 845
+        }
+      ]
+    },
+    {
+      "name": "万荣综合",
+      "group": "山西",
+      "sources": [
         {
-          "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend",
+          "url": "http://60.222.246.220:19433/hls1.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 3649
+          "speed": 903
         }
       ]
     },
@@ -1775,46 +2078,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 9252
-        }
-      ]
-    },
-    {
-      "name": "广德生活",
-      "group": "地方",
-      "sources": [
-        {
-          "url": "https://live.gdtv.ah.cn/live/newsTV.m3u8",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 888
-        }
-      ]
-    },
-    {
-      "name": "哈尔滨生活",
-      "group": "地方",
-      "sources": [
-        {
-          "url": "http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 1248
-        }
-      ]
-    },
-    {
-      "name": "哈尔滨新闻综合",
-      "group": "地方",
-      "sources": [
-        {
-          "url": "http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 1256
+          "speed": 8642
         }
       ]
     },
@@ -1827,46 +2091,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1638
+          "speed": 4519
         }
       ]
     },
     {
-      "name": "晋江电视台",
+      "name": "荆门新闻综合",
       "group": "地方",
       "sources": [
         {
-          "url": "http://stream.jinjiang.tv/1/sd/live.m3u8?zfud",
+          "url": "http://stream.jmtv.com.cn/xwzh/sd/live.m3u8",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1075
-        }
-      ]
-    },
-    {
-      "name": "奎屯哈萨克语",
-      "group": "地方",
-      "sources": [
-        {
-          "url": "http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 1595
-        }
-      ]
-    },
-    {
-      "name": "梨园",
-      "group": "地方",
-      "sources": [
-        {
-          "url": "https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549",
-          "stable": false,
-          "ok": 1,
-          "checks": 1,
-          "speed": 941
+          "speed": 4532
         }
       ]
     },
@@ -1879,7 +2117,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1874
+          "speed": 1302
         }
       ]
     },
@@ -1892,14 +2130,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2064
-        },
+          "speed": 1059
+        }
+      ]
+    },
+    {
+      "name": "南宁都市生活",
+      "group": "地方",
+      "sources": [
         {
-          "url": "https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de",
+          "url": "http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1471
+          "speed": 901
         }
       ]
     },
@@ -1912,7 +2156,14 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1431
+          "speed": 4239
+        },
+        {
+          "url": "https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3456
         }
       ]
     },
@@ -1925,20 +2176,53 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 5577
+          "speed": 1456
         }
       ]
     },
     {
-      "name": "通海电视台",
+      "name": "文山州公共",
       "group": "地方",
       "sources": [
         {
-          "url": "https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8",
+          "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund",
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 821
+          "speed": 4332
+        },
+        {
+          "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3922
+        }
+      ]
+    },
+    {
+      "name": "文山州新闻综合",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3203
+        }
+      ]
+    },
+    {
+      "name": "西宁新闻综合",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1713
         }
       ]
     },
@@ -1951,7 +2235,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1117
+          "speed": 10556
         }
       ]
     },
@@ -1964,7 +2248,20 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1300
+          "speed": 3692
+        }
+      ]
+    },
+    {
+      "name": "永城综合",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 8024
         }
       ]
     },
@@ -1977,7 +2274,34 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 1303
+          "speed": 1949
+        }
+      ]
+    },
+    {
+      "name": "荥阳综合",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 7214
+        },
+        {
+          "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 5349
+        },
+        {
+          "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4946
         }
       ]
     },
@@ -1990,7 +2314,7 @@
           "stable": false,
           "ok": 1,
           "checks": 1,
-          "speed": 2142
+          "speed": 1645
         }
       ]
     }
