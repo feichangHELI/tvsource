@@ -227,6 +227,8 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8
 http://live.metshop.top/huya/11336587?cdn=alicdn
 #EXTINF:-1 tvg-id="东阳影视生活" tvg-name="东阳影视生活" group-title="电影频道" x-source="vbskycn-iptv4",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 tvg-id="黄渤电影" tvg-name="黄渤电影" group-title="电影频道" x-source="vbskycn-iptv4",黄渤电影
+https://live.metshop.top/huya/11352876
 #EXTINF:-1 tvg-id="活佛济公3" tvg-name="活佛济公3" group-title="电影频道" x-source="vbskycn-iptv4",活佛济公3
 https://live.metshop.top/huya/23903123
 #EXTINF:-1 tvg-id="射雕英雄传" tvg-name="射雕英雄传" group-title="电影频道" x-source="guovin-result",射雕英雄传
