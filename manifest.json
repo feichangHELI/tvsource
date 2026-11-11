@@ -1121,6 +1121,19 @@
       ]
     },
     {
+      "name": "成龙电影",
+      "group": "电影",
+      "sources": [
+        {
+          "url": "https://live.metshop.top/huya/11342386",
+          "stable": false,
+          "ok": 4,
+          "checks": 6,
+          "speed": 1278
+        }
+      ]
+    },
+    {
       "name": "电影谍战片",
       "group": "电影",
       "sources": [
@@ -5068,6 +5081,215 @@
           "ok": 11,
           "checks": 11,
           "speed": 13797
+        }
+      ]
+    },
+    {
+      "name": "ARIRANG",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1427
+        }
+      ]
+    },
+    {
+      "name": "CNA",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1113
+        }
+      ]
+    },
+    {
+      "name": "HUNANECONOMYCHANNEL",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://p8.vzan.com/slowlive/415983998730568937/live.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 2427
+        }
+      ]
+    },
+    {
+      "name": "HUNANTV",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 38362
+        }
+      ]
+    },
+    {
+      "name": "JIANGSUPUBLIC&NEWSCHANNEL",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 5847
+        }
+      ]
+    },
+    {
+      "name": "JINGMENCOMPREHENSIVENEWSCHANNEL",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 10699
+        }
+      ]
+    },
+    {
+      "name": "QTV3",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 31457
+        }
+      ]
+    },
+    {
+      "name": "QTV4",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 26658
+        }
+      ]
+    },
+    {
+      "name": "QTV5",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 8548
+        }
+      ]
+    },
+    {
+      "name": "RTDE",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 927
+        }
+      ]
+    },
+    {
+      "name": "RTDOCРУССКИЙ",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 844
+        }
+      ]
+    },
+    {
+      "name": "RTFRANÇAIS",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1094
+        }
+      ]
+    },
+    {
+      "name": "TRACESPORTS",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 983
+        }
+      ]
+    },
+    {
+      "name": "WIONNEWS",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 1138
+        }
+      ]
+    },
+    {
+      "name": "XINJIANGTV3",
+      "group": "地方",
+      "sources": [
+        {
+          "url": "http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 5225
+        },
+        {
+          "url": "http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 4128
+        },
+        {
+          "url": "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8",
+          "stable": false,
+          "ok": 1,
+          "checks": 1,
+          "speed": 3992
         }
       ]
     },
